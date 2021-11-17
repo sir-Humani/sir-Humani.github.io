@@ -1,0 +1,53 @@
+body {
+  background-color: #F1F1EC;
+  background-image: ;
+  /*background-repeat: space;*/
+  background: no-repeat center url("images/brooke-lark-kXQ3J7_2fpc-unsplash.jpg");
+  }
+
+nav {
+
+  }
+
+.navigation {
+  display: inline-block;
+}
+.say_hello {
+  float: right; text-decoration: none;
+  font-family: Slyfaen; font-size: 1.5em;
+}
+.home {
+  font-size: 2em;
+  text-decoration: none;
+}
+.social {
+  float: right;
+}
+
+#main {
+  width: 100%; height: 500px;
+
+}
+.splash {
+  background-image: url( );
+}
+a {
+  text-decoration: none;
+}
+a.visited {
+  text-decoration: none;
+}
+
+.recepies {
+  padding-top: 5em; width: 90%; padding-left: 5%; padding-right: 5%;
+}
+.entry {
+  float: left; width: 400px; text-align: justify;
+  padding: 1em;
+  /*box-shadow x y blur radius rgba(r, g, b,transparency)*/
+/*  box-shadow: 0 0 8px 2px rgba(92, 128, 148, 0.2);*/
+  margin: auto 1em 1em auto;
+}
+.entry:hover {
+  box-shadow: 0 0 8px 2px rgba(92, 128, 148, 0.5);
+}
